@@ -1,0 +1,2 @@
+run python main_api,py
+SAmple fetch request : http://localhost:5000/api/fetch_graph_data/WR2009000663/current?data_per_page=10
